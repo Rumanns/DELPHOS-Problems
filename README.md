@@ -10,3 +10,4 @@
 1. No primeiro problema, crio um registro de nome e suas idades.
 2. No segundo problema, crio uma lista de gravadores CSV e seu registro.
 
+*Vou ter que utilizar este documento no lugar do desafio por causa de problemas com a ativação e cobranças do GCP do google. Mas tendo funções semelhantes...
